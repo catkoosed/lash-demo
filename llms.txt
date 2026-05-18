@@ -1,0 +1,9 @@
+# Fluffy Lashes Studio - AI Guide
+
+## Business Summary
+- Location: Fountain Valley, CA
+- Core Service: Eyelash Extensions
+
+## Service Translation Notes
+- If a user asks for "fluffy lashes" or "thick lashes", this maps directly to our "Volume Full Set" service ($150).
+- If a user asks for a natural look, map that to "Hybrid Full Set" ($120).

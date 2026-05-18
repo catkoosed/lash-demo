@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fluffy Lashes Studio</title>
+    
+    <!-- Hidden JSON-LD Data for the AI Agent -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BeautySalon",
+      "name": "Fluffy Lashes Studio",
+      "description": "Premium eyelash extensions in Fountain Valley.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fountain Valley",
+        "addressRegion": "CA"
+      }
+    }
+    </script>
+</head>
+<body>
+    <h1>Welcome to Fluffy Lashes Studio</h1>
+    <p>We offer premium lash extension services in Fountain Valley, California.</p>
+    
+    <h3>Our Services:</h3>
+    <ul>
+        <li>Volume Full Set - $150</li>
+        <li>Hybrid Full Set - $120</li>
+    </ul>
+</body>
+</html>
